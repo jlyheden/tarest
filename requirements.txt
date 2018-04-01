@@ -1,0 +1,6 @@
+Flask
+Flask-sqlalchemy
+requests
+behave
+expects
+vcrpy

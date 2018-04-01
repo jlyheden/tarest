@@ -1,0 +1,1 @@
+A flask app that scrapes and stores stock quotes and can generate simple technical analysis indicators
